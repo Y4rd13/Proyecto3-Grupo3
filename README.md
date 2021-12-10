@@ -77,14 +77,12 @@ _Se añadieron nuevos bordes claves entre los nodos de mayor distancia, para asi
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
 * [Visual studio code](https://code.visualstudio.com)
 
-## integrantes 🖇️
-_benjamín Serra -_
-_sofía López -_
-_Benjamín zárate_
+## Integrantes 🖇️
+_Benjamín Serra -_
+_Sofía López -_
+_Benjamín Zárate_
 
 
 ## Expresiones de Gratitud 🎁
