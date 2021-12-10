@@ -1,6 +1,6 @@
 # Título del Proyecto
 
-_Demolicion de minerales_
+_Construccion de grafo con n nodos y m aristas_
 
 ## Comenzando 🚀
 
