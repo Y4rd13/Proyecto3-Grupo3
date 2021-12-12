@@ -53,6 +53,7 @@ _Se añadieron nuevos bordes claves entre los nodos de mayor distancia, para asi
 
 nodos: 4
 aristas: 6
+
 ![4 y 6](img1.jpeg)
 ![4 y 6](img2.jpeg)
 
