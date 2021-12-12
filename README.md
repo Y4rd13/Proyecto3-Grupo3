@@ -1,6 +1,4 @@
-# Título del Proyecto
-
-_Construccion de grafo con n nodos y m aristas_
+# Construccion de grafo con n nodos y m aristas
 
 ## Comenzando 🚀
 
