@@ -50,6 +50,13 @@ _Se le pedira ingresar una cantidad de nodos y aristas. Luego de ingresar lo ped
 
 _Se añadieron nuevos bordes claves entre los nodos de mayor distancia, para asi asegurar la distancia entre estos, los cuales se reducen a 1 (distancia mínima entre 2 nodos fuertemente conectados para gráfico no ponderado), por lo que el diámetro se reduce así como el total distancia (costo)._
 
+## Ejemplos de algunos resultados
+
+nodos: 4
+aristas: 6
+![4 y 6](img1.jpeg)
+![4 y 6](img2.jpeg)
+
 ## Construido con 🛠️
 
 * [Visual studio code](https://code.visualstudio.com)
