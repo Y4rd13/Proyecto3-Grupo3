@@ -9,7 +9,7 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 _Instalar el programa python 3.0 en caso de no tenerlo en nuestro computador_
 
-_Tener powershell como administrador. En caso de no tenerlo, ejecutamos como administrador y escribiremos lo siguente en la terminal de powershell: " Set-ExecutionPolicy Unrestricted "_ 
+_Tener powershell como administrador. En caso de no tenerlo, ejecutamos como administrador y escribiremos lo siguente en la terminal de powershell: `Set-ExecutionPolicy Unrestricted`_ 
 
 
 ### Instalación 🔧
@@ -28,13 +28,14 @@ _En caso de que ciertas dependencias no se hayaninstalado, escribimos en la term
 
 _De forma opcional, instalar por separado cada uno de los siguentes requeimientos:_
 
+```python
 ipython==7.30.1
 matplotlib==3.5.0
 networkx==2.6.3
 numpy==1.21.4
 pandas==1.3.4
 Pillow==8.4.0
-
+```
 
 ## Ejecutando las pruebas ⚙️
 
