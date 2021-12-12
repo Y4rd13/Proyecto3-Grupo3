@@ -24,7 +24,7 @@ _Instalaremos nuestras dependencias con requirements.txt de la siguente forma:_
 
 3. _Activamos el entorno virtual escribiendo en la terminal `env/scripts/activate` (windows) o `source env/bin/activate` (linux)_
 
-4. Finalmente instalamos los requerimientos escribiendo: `pip install -r requirements.txt`_
+4. Finalmente instalamos las dependencias en el entorno virtual escribiendo: `pip install -r requirements.txt`_
 
 _En caso de que ciertas dependencias no se hayaninstalado, escribimos en la terminal, `pip install (nombre_de_la_libreria)`_
 
